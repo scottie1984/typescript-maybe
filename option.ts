@@ -35,7 +35,7 @@ let Maybe = {
 
 interface Person {
     title: Option<string>;
-	  firstname: string;
+    firstname: string;
     lastname: string;
 }
 
